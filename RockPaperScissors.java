@@ -5,6 +5,8 @@ public class RockPaperScissors
     public static int playerChoice=0;
     public static Scanner input=new Scanner(System.in);
     public static int computerChoice=0;
+    
+    //THIS IS THE MAIN FUNCTION
     public static void main(String[] args)
     {
         clear();
