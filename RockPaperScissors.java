@@ -20,7 +20,7 @@ public class RockPaperScissors
     public static void run()
     {
         userChoice();//This is the user decision
-        wait(1000);
+        wait(1000);//Delay in cpu choice
         cpuChoice();//This is the computer decision
         wait(1000);
         outcome();
