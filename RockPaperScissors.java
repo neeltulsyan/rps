@@ -21,7 +21,7 @@ public class RockPaperScissors
     {
         userChoice();//This is the user decision
         wait(1000);
-        cpuChoice();
+        cpuChoice();//This is the computer decision
         wait(1000);
         outcome();
         wait(1000);
