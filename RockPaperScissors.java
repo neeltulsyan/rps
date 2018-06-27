@@ -19,7 +19,7 @@ public class RockPaperScissors
 
     public static void run()
     {
-        userChoice();
+        userChoice();//This is the user decision
         wait(1000);
         cpuChoice();
         wait(1000);
